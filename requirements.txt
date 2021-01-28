@@ -5,3 +5,4 @@ pytz
 requests
 six
 websockets
+numpy
